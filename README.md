@@ -1,7 +1,7 @@
 # AR-Pong-codepath
 Final group project 
 
-User Stories
+# User Stories
 
 User can log in/logout
 
@@ -23,7 +23,7 @@ User can play pong with an AI (singleplayer).
 
 User can play pong in the AR world. 
 
-Other to do
+# Other to do
 
 App icon
 
@@ -36,3 +36,10 @@ Game AI
 Ball physics
 
 World boundaries 
+
+# WireFrame
+<img src="https://i.imgur.com/jUsngnR.jpg">
+<img src="https://i.imgur.com/eafO36k.jpg">
+
+# Optional features
+
